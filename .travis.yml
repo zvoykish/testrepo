@@ -1,0 +1,2 @@
+notifications:
+  webhooks: http://e12e22e4.ngrok.io/webhooks/travisci/61456627-9b1ba715-7dc6-4c7d-bae4-e0bd224b060a
